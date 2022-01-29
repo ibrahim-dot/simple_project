@@ -1,2 +1,2 @@
 # simple_project
-word software
+word software development
